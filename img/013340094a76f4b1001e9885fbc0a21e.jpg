@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Finance vos projets" />
+  <link rel="shortcut icon" href="https://multicredit.ch/wp/wp-content/uploads/favicon_google.png">
+
+  
+
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="pingback" href="https://www.multicredit.ch/wp/xmlrpc.php" />
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+  <link rel="alternate" hreflang="fr" href="https://www.multicredit.ch/fr/" />
+<link rel="alternate" hreflang="en" href="https://www.multicredit.ch/en/" />
+<link rel="alternate" hreflang="de" href="https://www.multicredit.ch/de/" />
+<link rel="alternate" hreflang="it" href="https://www.multicredit.ch/it/" />
+<link rel="alternate" hreflang="pt-pt" href="https://www.multicredit.ch/pt-pt/" />
+<link rel="alternate" hreflang="es" href="https://www.multicredit.ch/es/" />
+<link rel="alternate" hreflang="sq" href="https://www.multicredit.ch/sq/" />
+<link rel="alternate" hreflang="tr" href="https://www.multicredit.ch/tr/" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v14.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>MultiCredit | Finance vos projets | La meilleure solution pour votre projet</title>
+	<meta name="description" content="MultiCredit a pour vocation de soutenir ses clients dans leur quotidien grâce à un conseil sur mesure et pertinent pour des solutions sur-mesure durables." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.multicredit.ch/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="MultiCredit | Finance vos projets | La meilleure solution pour votre projet" />
+	<meta property="og:description" content="MultiCredit a pour vocation de soutenir ses clients dans leur quotidien grâce à un conseil sur mesure et pertinent pour des solutions sur-mesure durables." />
+	<meta property="og:url" content="https://www.multicredit.ch/" />
+	<meta property="og:site_name" content="MultiCredit" />
+	<meta property="article:publisher" content="https://www.facebook.com/multicredit/" />
+	<meta property="article:modified_time" content="2021-03-26T09:52:25+00:00" />
+	<meta property="og:image" content="https://www.multicredit.ch/wp/wp-content/uploads/mc-banner-credit.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="919" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@Multicredit_CH" />
+	<meta name="twitter:site" content="@Multicredit_CH" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.multicredit.ch/fr/#organization","name":"Cashflex MultiCredit S\u00e0rl","url":"https://www.multicredit.ch/fr/","sameAs":["https://www.facebook.com/multicredit/","https://www.linkedin.com/company/cashflex-multicr-dit","https://twitter.com/Multicredit_CH"],"logo":{"@type":"ImageObject","@id":"https://www.multicredit.ch/fr/#logo","inLanguage":"fr-FR","url":"https://www.multicredit.ch/wp/wp-content/uploads/multicredit-logo.svg","caption":"Cashflex MultiCredit S\u00e0rl"},"image":{"@id":"https://www.multicredit.ch/fr/#logo"}},{"@type":"WebSite","@id":"https://www.multicredit.ch/fr/#website","url":"https://www.multicredit.ch/fr/","name":"MultiCredit","description":"Finance vos projets","publisher":{"@id":"https://www.multicredit.ch/fr/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.multicredit.ch/fr/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"ImageObject","@id":"https://www.multicredit.ch/#primaryimage","inLanguage":"fr-FR","url":"https://www.multicredit.ch/wp/wp-content/uploads/mc-banner-credit.png","width":1200,"height":919},{"@type":"WebPage","@id":"https://www.multicredit.ch/#webpage","url":"https://www.multicredit.ch/","name":"MultiCredit | Finance vos projets | La meilleure solution pour votre projet","isPartOf":{"@id":"https://www.multicredit.ch/fr/#website"},"about":{"@id":"https://www.multicredit.ch/fr/#organization"},"primaryImageOfPage":{"@id":"https://www.multicredit.ch/#primaryimage"},"datePublished":"2020-03-09T08:25:31+00:00","dateModified":"2021-03-26T09:52:25+00:00","description":"MultiCredit a pour vocation de soutenir ses clients dans leur quotidien gr\u00e2ce \u00e0 un conseil sur mesure et pertinent pour des solutions sur-mesure durables.","inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.multicredit.ch/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.multicredit.ch\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.multicredit.ch/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.multicredit.ch/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<style id='contact-form-7-inline-css' type='text/css'>
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+</style>
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.multicredit.ch/wp/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='h5vp-style-css'  href='https://www.multicredit.ch/wp/wp-content/plugins/html5-video-player/css/player-style.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bodhi-svgs-attachment-css'  href='https://www.multicredit.ch/wp/wp-content/plugins/svg-support/css/svgs-attachment.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='//www.multicredit.ch/wp/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-tm-admin-bar-css'  href='https://www.multicredit.ch/wp/wp-content/plugins/wpml-translation-management/res/css/admin-bar-style.css?ver=2.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='style.css-css'  href='https://www.multicredit.ch/wp/wp-content/themes/multicredit/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://www.multicredit.ch/wp/wp-content/themes/multicredit/dist/theme.css?ver=6936' type='text/css' media='all' />
+<link rel='stylesheet' id='aos-css'  href='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/css/aos.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jBox-css'  href='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/css/jBox.all.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='//www.multicredit.ch/wp/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=6.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/html5-video-player/js/plyr.js?ver=1.4'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"fr","languageUrls":{"fr_FR":"https:\/\/www.multicredit.ch\/fr\/","fr":"https:\/\/www.multicredit.ch\/fr\/","FR":"https:\/\/www.multicredit.ch\/fr\/","en_US":"https:\/\/www.multicredit.ch\/en\/","en":"https:\/\/www.multicredit.ch\/en\/","US":"https:\/\/www.multicredit.ch\/en\/","de_DE":"https:\/\/www.multicredit.ch\/de\/","de":"https:\/\/www.multicredit.ch\/de\/","DE":"https:\/\/www.multicredit.ch\/de\/","it_IT":"https:\/\/www.multicredit.ch\/it\/","it":"https:\/\/www.multicredit.ch\/it\/","IT":"https:\/\/www.multicredit.ch\/it\/","pt_PT":"https:\/\/www.multicredit.ch\/pt-pt\/","pt":"https:\/\/www.multicredit.ch\/pt-pt\/","PT":"https:\/\/www.multicredit.ch\/pt-pt\/","pt-pt":"https:\/\/www.multicredit.ch\/pt-pt\/","es_ES":"https:\/\/www.multicredit.ch\/es\/","es":"https:\/\/www.multicredit.ch\/es\/","ES":"https:\/\/www.multicredit.ch\/es\/","sq_AL":"https:\/\/www.multicredit.ch\/sq\/","sq":"https:\/\/www.multicredit.ch\/sq\/","AL":"https:\/\/www.multicredit.ch\/sq\/","tr_TR":"https:\/\/www.multicredit.ch\/tr\/","tr":"https:\/\/www.multicredit.ch\/tr\/","TR":"https:\/\/www.multicredit.ch\/tr\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.multicredit.ch","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/sitepress-multilingual-cms/dist/js/browser-redirect/app.js?ver=4.3.11'></script>
+<link rel='https://api.w.org/' href='https://www.multicredit.ch/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.multicredit.ch/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.multicredit.ch/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://www.multicredit.ch/fr/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.multicredit.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.multicredit.ch%2Ffr%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.multicredit.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.multicredit.ch%2Ffr%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.3.11 stt:48,1,4,3,27,41,2,53;" />
+<!-- Analytics by WP-Statistics v12.6.13 - https://wp-statistics.com/ -->
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+var google_tag_params = {"pageTitle":"MultiCredit | Finance vos projets | La meilleure solution pour votre projet","pagePostType":"frontpage","pagePostType2":"single-page","pagePostDate":"09\/03\/2020","pagePostDateYear":"2020","pagePostDateMonth":"03","pagePostDateDay":"09"};
+	var dataLayer_content = {"pageTitle":"MultiCredit | Finance vos projets | La meilleure solution pour votre projet","pagePostType":"frontpage","pagePostType2":"single-page","pagePostDate":"09\/03\/2020","pagePostDateYear":"2020","pagePostDateMonth":"03","pagePostDateDay":"09","google_tag_params":window.google_tag_params};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LXSG4P');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="icon" href="https://www.multicredit.ch/wp/wp-content/uploads/2020/03/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.multicredit.ch/wp/wp-content/uploads/2020/03/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.multicredit.ch/wp/wp-content/uploads/2020/03/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.multicredit.ch/wp/wp-content/uploads/2020/03/cropped-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1585226965127{padding-bottom: 0px !important;}.vc_custom_1587385837990{padding-top: 0px !important;}.vc_custom_1596726286314{padding-top: 0px !important;background-color: #f9f9f9 !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!--
+  _____     __     ______     ______     ______     __         ______
+  /\  __-.  /\ \   /\  __ \   /\  == \   /\  __ \   /\ \       /\  __ \
+  \ \ \/\ \ \ \ \  \ \  __ \  \ \  __<   \ \ \/\ \  \ \ \____  \ \ \/\ \
+  \ \____-  \ \_\  \ \_\ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\
+  \/____/   \/_/   \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/
+
+  Copyright (c) diabolo design | https://www.diabolo.com/
+  -->
+</head>
+<body class="home page-template-default page page-id-145 wp-custom-logo cookies-not-set page-multicredit-finance-vos-projets fr wpb-js-composer js-comp-ver-6.1 vc_responsive">
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LXSG4P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  <div id="GeneralWrapper">
+
+    <div class="loader">
+      <img src="https://www.multicredit.ch/wp/wp-content/themes/multicredit/images/mc_check_loader.gif" width="80" alt="La page est en train de chargement">
+    </div>
+
+    <header>
+  		<div class="container-full-width">
+        <div class="row alt-navigation-bar">
+          <div class="logo col-lg-3">
+  					<a href="https://www.multicredit.ch/fr/" class="custom-logo-link" rel="home"><img src="https://www.multicredit.ch/wp/wp-content/uploads/multicredit-logo.svg" class="custom-logo" alt="MultiCredit" /></a>  			  </div>
+
+          <div class="col-lg-9 text-right">
+            <div class="alt-nav-element hide-on-min">
+              <a class="btn" href="https://www.multicredit.ch/fr//demande-de-credit">Demande de crédit</a>
+            </div>
+
+            <div class="alt-nav-element">
+              <nav class="secondary-menu"><ul id="menu-secondary-fr" class="menu menu-nav"><li id="menu-item-wpml-ls-24-fr" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-fr wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-24-fr"><a title="Fr" href="https://www.multicredit.ch/fr/"><span class="wpml-ls-native" lang="fr">Fr</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-wpml-ls-24-en" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-en"><a title="En" href="https://www.multicredit.ch/en/"><span class="wpml-ls-native" lang="en">En</span></a></li>
+	<li id="menu-item-wpml-ls-24-de" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-de"><a title="De" href="https://www.multicredit.ch/de/"><span class="wpml-ls-native" lang="de">De</span></a></li>
+	<li id="menu-item-wpml-ls-24-it" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-it"><a title="It" href="https://www.multicredit.ch/it/"><span class="wpml-ls-native" lang="it">It</span></a></li>
+	<li id="menu-item-wpml-ls-24-pt-pt" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-pt-pt wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-pt-pt"><a title="Pt" href="https://www.multicredit.ch/pt-pt/"><span class="wpml-ls-native" lang="pt-pt">Pt</span></a></li>
+	<li id="menu-item-wpml-ls-24-es" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-es"><a title="Es" href="https://www.multicredit.ch/es/"><span class="wpml-ls-native" lang="es">Es</span></a></li>
+	<li id="menu-item-wpml-ls-24-sq" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-sq wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-sq"><a title="Sq" href="https://www.multicredit.ch/sq/"><span class="wpml-ls-native" lang="sq">Sq</span></a></li>
+	<li id="menu-item-wpml-ls-24-tr" class="menu-item wpml-ls-slot-24 wpml-ls-item wpml-ls-item-tr wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-24-tr"><a title="Tr" href="https://www.multicredit.ch/tr/"><span class="wpml-ls-native" lang="tr">Tr</span></a></li>
+</ul>
+</li>
+<li class="search hide-on-min"><a class="search_icon"><img src="https://www.multicredit.ch/wp/wp-content/themes/multicredit/images/loop.svg"></a><div style="display:none;" class="spicewpsearchform"><form role="search" method="get" id="searchform" class="searchform" action="https://www.multicredit.ch/fr/">
+				<div>
+					<label class="screen-reader-text" for="s">Rechercher :</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Rechercher" />
+				</div>
+			</form></div></li></ul></nav>            </div>
+
+            <div class="alt-nav-element">
+              <button id="hamburger-trigger" class="hamburger hamburger--collapse hide-on-desktop" type="button">
+               <span class="hamburger-box">
+                 <span class="hamburger-inner"></span>
+               </span>
+              </button>
+            </div>
+
+          </div>
+        </div>
+
+  			<div class="row">
+          <div class="col-lg-12 text-right">
+  				  <nav class="primary-menu"><ul id="menu-primary-fr" class="menu menu-nav"><li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-238"><a href="https://www.multicredit.ch/fr/credit/">Crédit</a>
+<ul class="sub-menu">
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a href="https://www.multicredit.ch/fr/credit/credit-habitation/">Crédit habitation</a></li>
+	<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://www.multicredit.ch/fr/credit/credit-auto/">Crédit auto</a></li>
+	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="https://www.multicredit.ch/fr/credit/financement-d-etudes-et-de-formations/">Financement d’études et de formations</a></li>
+	<li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-289"><a href="https://www.multicredit.ch/fr/credit/pret-medical/">Prêt médical</a></li>
+	<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="https://www.multicredit.ch/fr/credit/credits-divers/">Crédits divers</a></li>
+	<li id="menu-item-14273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14273"><a href="https://www.multicredit.ch/fr/credit/credit-pme/">Crédit Indépendants / PME</a></li>
+</ul>
+</li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-283"><a href="https://www.multicredit.ch/fr/rachat-de-pret/">Rachat de prêt</a>
+<ul class="sub-menu">
+	<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="https://www.multicredit.ch/fr/rachat-de-pret/rachat-de-credit-en-cours/">Rachat de crédit en cours</a></li>
+	<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="https://www.multicredit.ch/fr/rachat-de-pret/leasing/">Rachat de Leasing</a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://www.multicredit.ch/fr/rachat-de-pret/solde-de-carte-de-credit/">Solde de carte de crédit</a></li>
+	<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://www.multicredit.ch/fr/rachat-de-pret/regroupement-de-credits/">Regroupement de crédits</a></li>
+</ul>
+</li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="https://www.multicredit.ch/fr/carte-de-credit/">Carte de crédit</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://www.multicredit.ch/fr/a-propos/">À propos</a></li>
+<li id="menu-item-11917" class="menublog menu-item menu-item-type-post_type menu-item-object-page menu-item-11917"><a href="https://www.multicredit.ch/fr/blog/">Blog</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.multicredit.ch/fr/contact/">Contact</a></li>
+</ul></nav>          </div>
+  		  </div>
+
+      </div> <!-- container -->
+
+  		<div class="mobile-menu hide-on-desktop">
+			<nav class="menu-mobile-fr-container"><ul id="menu-mobile-fr" class="menu menu-nav mobile-nav"><li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-237"><a href="https://www.multicredit.ch/fr/credit/">Crédit</a>
+<ul class="sub-menu">
+	<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://www.multicredit.ch/fr/credit/credit-habitation/">Crédit habitation</a></li>
+	<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://www.multicredit.ch/fr/credit/credit-auto/">Crédit auto</a></li>
+	<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://www.multicredit.ch/fr/credit/financement-d-etudes-et-de-formations/">Financement d’études et de formations</a></li>
+	<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="https://www.multicredit.ch/fr/credit/pret-medical/">Prêt médical</a></li>
+	<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="https://www.multicredit.ch/fr/credit/credits-divers/">Crédits divers</a></li>
+	<li id="menu-item-14345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14345"><a href="https://www.multicredit.ch/fr/credit/credit-pme/">Crédit Indépendants / PME</a></li>
+</ul>
+</li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-275"><a href="https://www.multicredit.ch/fr/rachat-de-pret/">Rachat de prêt</a>
+<ul class="sub-menu">
+	<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277"><a href="https://www.multicredit.ch/fr/rachat-de-pret/rachat-de-credit-en-cours/">Rachat de crédit en cours</a></li>
+	<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://www.multicredit.ch/fr/rachat-de-pret/leasing/">Rachat de Leasing</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://www.multicredit.ch/fr/rachat-de-pret/solde-de-carte-de-credit/">Solde de carte de crédit</a></li>
+	<li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278"><a href="https://www.multicredit.ch/fr/rachat-de-pret/regroupement-de-credits/">Regroupement de crédits</a></li>
+</ul>
+</li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://www.multicredit.ch/fr/carte-de-credit/">Carte de crédit</a></li>
+<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://www.multicredit.ch/fr/a-propos/">À propos</a></li>
+<li id="menu-item-11918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11918"><a href="https://www.multicredit.ch/fr/blog/">Blog</a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://www.multicredit.ch/fr/contact/">Contact</a></li>
+</ul></nav>  			</div>
+      </header>
+
+            <div class="hero background-hero">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-lg-6">
+              <h4>
+                                  Trouver la meilleure solution pour votre projet est notre engagement                              </h4>
+              <h1>MultiCredit Finance vos projets</h1>
+            </div>
+          </div>
+          </div>
+
+          <img class="hero-check-image" src="https://multicredit.ch/wp/wp-content/uploads/mc-banner-check.png" alt="check" />
+          <img class="hero-banner-image" src="https://www.multicredit.ch/wp/wp-content/uploads/mc-banner-credit.png" alt="MultiCredit Finance vos projets" />
+        </div>
+      
+<!-- Main Calculator component -->
+<div class='demande-credit-component'>  <form class="container" method="get" action="https://www.multicredit.ch/fr//demande-de-credit/">
+
+    
+    <div class="row">
+        <div class="col-lg-5">
+          <!-- Montant -->
+          <p>Montant</p>
+          <div class="slidecontainer">
+            <input id="montant" name="montant" type="number" value="3000" min="3000" max="400000" step="1000" oninput="montantSlider.value=montant.value" />
+            <input id="montantSlider" type="range" min="3000" max="400000" value="3000" step="1000" class="slider" oninput="montant.value=montantSlider.value" />
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <!-- Durée -->
+          <p>Durée</p>
+          <div class="slidecontainer">
+            <input id="duree" name="duree" type="number" min="12" max="84" value="12" step="12" oninput="dureeSlider.value=duree.value" />
+            <input id="dureeSlider" type="range" min="12" max="84" value="12" step="12" class="slider" oninput="duree.value=dureeSlider.value" />
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <!-- Mensualités à 4.9% -->
+          <p class="f-height hide-on-mobile">Vos mensualités dès</p>
+          <p class="f-height hide-on-desktop">Vos mensualités y compris amortissements, intérêts et assurance décès dès</p>
+		  <div>
+			<div style="display:flex">
+				<h4 id="mensualite49">257 CHF</h4>
+				<h4 style="font-size: 1.8em; margin-left:10px;">par mois</h4>
+			</div>
+			<div style="font-weight: bold;color: red;">
+				A partir de 4.5%			</div>
+		  </div>
+        </div>
+    </div>
+  <div class="row align-items-center legend-bloc mt-4 mb-2 ">
+    <div class="col-lg-3 hide-on-mobile">&nbsp;</div>
+    <div class="col-lg-6 text-right hide-on-mobile">
+      <p style="margin-bottom: 8px;font-size: 0.9em;"><strong>Mensualité/remboursement y compris :</strong></p>
+        <ul class="checklist inline-checklist">
+          <li>Amortissements</li>
+          <li>Intérêts</li>
+          <li>Assurance décès</li>
+        </ul>
+    </div>
+    <div class="col-lg-3">
+      <input type="submit" class="btn" value="Demande de crédit" />
+    </div>
+  </div>
+    <div class="row">
+	  <div class="col-lg-12">
+		  <p style="font-size:0.6em;">
+			  Au sens de la loi, l’octroi d’un crédit à la consommation est interdit s’il occasionne un surendettement (art. 3 LCD). Exemple de calcul: Financement CHF 10’000. Un taux d’intérêt annuel effectif de 4.5% à 9.9% donne des coûts totaux pour 12 mois de CHF 240.- à CHF 520.- . Le taux d’intérêt final varie en fonction de la situation de chaque client. Aucun frais de dossier ni frais complémentaire: vous ne payez que l’intérêt du crédit.		  </p>
+	  </div>
+  </div>	  
+
+  </form>
+
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="vc_row wpb_row vc_row-fluid white-bck bigpadding vc_custom_1585226965127">
+<div data-aos="fade-in" class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="blocktitle title-center title-dark" clearfix"><H2>Nos solutions de financement</H2></p>
+<h4>Pour chaque situation</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid white-bck bigpadding flex-eq-height linkblocsimg one-third-link-bloc vc_custom_1587385837990 vc_row-o-equal-height vc_row-flex">
+<div data-aos="fade-up" class="wpb_column vc_column_container vc_col-sm-4">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="600" src="https://www.multicredit.ch/wp/wp-content/uploads/car-w.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://www.multicredit.ch/wp/wp-content/uploads/car-w.jpg 600w, https://www.multicredit.ch/wp/wp-content/uploads/car-w-300x300.jpg 300w, https://www.multicredit.ch/wp/wp-content/uploads/car-w-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+</figure></div>
+<div class="blocktitle title-left title-dark" clearfix"><H3>Prêt personnel</H3></p>
+<h4>Pour vos projets</h4>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<ul>
+<li><a href="/fr?page_id=105">Achat de voiture</a></li>
+<li><a href="/fr?page_id=303">Immobilier</a></li>
+<li><a href="/fr?page_id=303">Formation</a></li>
+<li><a href="/fr?page_id=252">Santé</a></li>
+<li><a href="/fr?page_id=254">Divers</a></li>
+</ul></div>
+</p></div>
+<div class="vc_btn3-container vc_btn3-inline" ><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="https://www.multicredit.ch/fr/credit/" title="Prêt personnel">Découvrir</a></div>
+</div>
+</div>
+</div>
+<div data-aos="fade-up" data-aos-delay="150" class="wpb_column vc_column_container vc_col-sm-4">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="600" src="https://www.multicredit.ch/wp/wp-content/uploads/puzzle-w.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://www.multicredit.ch/wp/wp-content/uploads/puzzle-w.jpg 600w, https://www.multicredit.ch/wp/wp-content/uploads/puzzle-w-300x300.jpg 300w, https://www.multicredit.ch/wp/wp-content/uploads/puzzle-w-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+</figure></div>
+<div class="blocktitle title-left title-dark" clearfix"><H3>Rachat de prêt</H3></p>
+<h4>Pour regrouper vos crédits</h4>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<ul>
+<li><a href="/fr?page_id=256">Rachat de crédit en cours</a></li>
+<li><a href="/fr?page_id=258">Rachat de leasing</a></li>
+<li><a href="/fr?page_id=260">Solde de carte de crédit</a></li>
+<li><a href="/fr?page_id=262">Regroupement de crédits</a></li>
+</ul></div>
+</p></div>
+<div class="vc_btn3-container vc_btn3-inline" ><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="https://www.multicredit.ch/fr/rachat-de-pret/" title="Rachat de prêt">Découvrir</a></div>
+</div>
+</div>
+</div>
+<div data-aos="fade-up" data-aos-delay="300" class="wpb_column vc_column_container vc_col-sm-4">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="600" src="https://www.multicredit.ch/wp/wp-content/uploads/flexible-w.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://www.multicredit.ch/wp/wp-content/uploads/flexible-w.jpg 600w, https://www.multicredit.ch/wp/wp-content/uploads/flexible-w-300x300.jpg 300w, https://www.multicredit.ch/wp/wp-content/uploads/flexible-w-150x150.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+</figure></div>
+<div class="blocktitle title-left title-dark" clearfix"><H3>Carte de crédit</H3></p>
+<h4>Pour plus de fléxibilité</h4>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<ul>
+<li><a href="/fr?page_id=242">Demande de carte</a></li>
+</ul></div>
+</p></div>
+<div class="vc_btn3-container vc_btn3-inline" ><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="https://www.multicredit.ch/fr/carte-de-credit/" title="Carte de crédit">Découvrir</a></div>
+</div>
+</div>
+</div>
+</div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid video-bck homevideopadding vc_custom_1596726286314 vc_row-has-fill vc_row-o-content-middle vc_row-flex">
+<div data-aos="fade-up" class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<div style="margin:0px auto; width="100%"">
+<video controls crossorigin playsinline class="player14596"   
+controls 
+ 
+ poster="https://www.multicredit.ch/wp/wp-content/uploads/mc-universelle-fr.jpg" 
+ ><source src="https://www.multicredit.ch/wp/wp-content/uploads/MULTICREDIT_ANIMATION_UNIVERSELLE_MIX_V1A.mp4" type="video/mp4">Your browser does not support the video tag.</video><br />
+<script type="text/javascript"></p>
+<p>const players14596 = Plyr.setup('.player14596', {
+	fullscreen:{ enabled: true, fallback: true, iosNative: true },
+	controls:['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'captions', 'settings', 'pip', 'airplay', 'fullscreen', 'download']
+});
+</script>
+</div>
+</p></div>
+</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid lightgrey-bck biggerpadding diagonal-top-bck steps undervideo">
+<div data-aos="fade-in" class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="blocktitle title-center title-dark" clearfix"><H2>Votre crédit en 4 étapes</H2></p>
+<h4>Simple et rapide</h4>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-flex">
+<div class="wpb_column vc_column_container vc_col-sm-3">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class= "vc_pie_chart wpb_content_element" data-pie-value="25" data-pie-label-value="1" data-pie-units="" data-pie-color="#df003c">
+<div class="wpb_wrapper">
+<div class="vc_pie_wrapper"><span class="vc_pie_chart_back" style="border-color: #df003c"></span><span class="vc_pie_chart_value"></span><canvas width="101" height="101"></canvas></div>
+<h4 class="wpb_heading wpb_pie_chart_heading">Demande</h4>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<p style="text-align: center;">Vous remplissez le formulaire de demande de crédit selon vos besoins.</p>
+<h5 style="text-align: center;">2 min</h5>
+</p></div>
+</p></div>
+</div>
+</div>
+</div>
+<div class="wpb_column vc_column_container vc_col-sm-3">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class= "vc_pie_chart wpb_content_element" data-pie-value="50" data-pie-label-value="2" data-pie-units="" data-pie-color="#df003c">
+<div class="wpb_wrapper">
+<div class="vc_pie_wrapper"><span class="vc_pie_chart_back" style="border-color: #df003c"></span><span class="vc_pie_chart_value"></span><canvas width="101" height="101"></canvas></div>
+<h4 class="wpb_heading wpb_pie_chart_heading">Proposition</h4>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<p style="text-align: center;">Nous analysons votre demande et vous proposons une solution.</p>
+<h5 style="text-align: center;">12 heures</h5>
+</p></div>
+</p></div>
+</div>
+</div>
+</div>
+<div class="wpb_column vc_column_container vc_col-sm-3">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class= "vc_pie_chart wpb_content_element" data-pie-value="75" data-pie-label-value="3" data-pie-units="" data-pie-color="#df003c">
+<div class="wpb_wrapper">
+<div class="vc_pie_wrapper"><span class="vc_pie_chart_back" style="border-color: #df003c"></span><span class="vc_pie_chart_value"></span><canvas width="101" height="101"></canvas></div>
+<h4 class="wpb_heading wpb_pie_chart_heading">Signature</h4>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<p style="text-align: center;">Une fois le contrat établi, il vous suffit de le signer et nous le transmettre.</p>
+<h5 style="text-align: center;">24 heures</h5>
+</p></div>
+</p></div>
+</div>
+</div>
+</div>
+<div class="wpb_column vc_column_container vc_col-sm-3">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div  class= "vc_pie_chart wpb_content_element" data-pie-value="100" data-pie-label-value="4" data-pie-units="" data-pie-color="#df003c">
+<div class="wpb_wrapper">
+<div class="vc_pie_wrapper"><span class="vc_pie_chart_back" style="border-color: #df003c"></span><span class="vc_pie_chart_value"></span><canvas width="101" height="101"></canvas></div>
+<h4 class="wpb_heading wpb_pie_chart_heading">Virement</h4>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<p style="text-align: center;">Le montant est viré dans votre compte.</p>
+<h5 style="text-align: center;">14 jours (Délai légal)</h5>
+</p></div>
+</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid regularpadding text-center">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="vc_btn3-container vc_btn3-inline" ><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="https://www.multicredit.ch/fr/credit/" title="Crédit">Découvrir</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid white-bck bigpadding checklist vc_row-o-content-middle vc_row-flex">
+<div data-aos="fade-in" class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="blocktitle title-left title-dark" clearfix"><H2>MultiCredit</H2></p>
+<h4>Trouver la meilleure solution dans l’intérêt de notre client est notre première mission.</h4>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-6">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<p>MultiCredit a pour vocation de soutenir ses clients dans leur quotidien grâce à un <strong>conseil sur mesure</strong> et pertinent pour des <strong>solutions sur-mesure durables</strong>.</p>
+<p><strong>Prêt personnel, rachat de prêt, rachat de leasing, rachat et regroupement de soldes de carte de crédit, carte de crédit, mais aussi aide au désendettement</strong> : nos spécialistes vous accompagnent et vous conseillent dans tous ces domaines.</p>
+</p></div>
+</p></div>
+<div class="vc_btn3-container vc_btn3-inline" ><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="https://www.multicredit.ch/fr/a-propos/" title="A propos">Découvrir</a></div>
+</div>
+</div>
+</div>
+<div class="wpb_column vc_column_container vc_col-sm-6">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<ul>
+<li><strong>Sécurité et confidentialité</strong></li>
+<li><strong>Proximité et responsabilité</strong></li>
+<li><strong>Prise en charge garantie en moins de 24h</strong></li>
+<li><strong>Taux de crédit inférieur à la concurrence</strong></li>
+</ul></div>
+</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+			
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-content-middle vc_row-flex full-width diagonal-top-bck gradient-bck bigpadding counter">
+  <div class="wpb_column vc_column_container vc_col-sm-3">
+    <div class="vc_column-inner">
+      <div class="wpb_wrapper">
+
+        <div class="blocktitle title-center title-light countAnim clearfix">
+          <h3>90769</h3>
+          <h4>Clients nous font confiance</h4>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="wpb_column vc_column_container vc_col-sm-3">
+    <div class="vc_column-inner">
+      <div class="wpb_wrapper">
+        <div class="blocktitle title-center title-light countAnim clearfix">
+          <h3>15000</h3>
+          <h4>Demandes de crédit chaque année</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="wpb_column vc_column_container vc_col-sm-3">
+    <div class="vc_column-inner">
+      <div class="wpb_wrapper">
+        <div class="blocktitle title-center title-light countAnim clearfix">
+          <h3>22</h3>
+          <h4>Ans d’activité en Suisse</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="wpb_column vc_column_container vc_col-sm-3">
+    <div class="vc_column-inner">
+      <div class="wpb_wrapper">
+        <div class="blocktitle title-center title-light clearfix">
+          <h3><span class="countAnim">500</span> Mio</h3>
+          <h4>de francs suisses en prêts depuis 1999</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+			
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-content-middle vc_row-flex contact-bloc full-width white-bck regularpadding">
+	<div class="wpb_column vc_column_container vc_col-sm-12" data-aos="fade-in" >
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+
+				<div class="blocktitle title-center clearfix">
+					<h2>A votre service !</h2>
+					<p>Pour plus de précisions, consultez notre spécialiste ou demandez-nous une offre !</p>
+					<h4><span class="line-on-mobile"><span class="grey">T: </span>026 322 23 10</span>&nbsp;&nbsp;&nbsp;<span class="line-on-mobile"><span class="grey">M: </span>079 936 31 75</span><br />info@multicredit.ch</h4>
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+		</div>
+	</div>
+</div>
+
+
+
+<section class="subfooter sidebar smallpadding" id="sidebar-footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-md-6 bloc-1">
+									<aside id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widget-title">Liens utiles</h4><div class="menu-practical-links-fr-container"><ul id="menu-practical-links-fr" class="menu"><li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="https://www.multicredit.ch/fr/blog/">Blog</a></li>
+<li id="menu-item-12349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12349"><a href="https://www.multicredit.ch/fr/contact/demande-de-sponsoring/">Demande de sponsoring</a></li>
+<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://www.multicredit.ch/fr/cg/">Conditions générales</a></li>
+<li id="menu-item-11953" class="fb-link menu-item menu-item-type-custom menu-item-object-custom menu-item-11953"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/multicredit/">Facebook</a></li>
+<li id="menu-item-13022" class="ld-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13022"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cashflex-multicr-dit">Linkedin</a></li>
+<li id="menu-item-13702" class="tt-link menu-item menu-item-type-custom menu-item-object-custom menu-item-13702"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Multicredit_CH">Twitter</a></li>
+</ul></div></aside>							</div>
+			<div class="col-lg-3 col-md-6 bloc-2">
+									<aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title">Vos projets</h4><div class="menu-your-projects-fr-container"><ul id="menu-your-projects-fr" class="menu"><li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="https://www.multicredit.ch/fr/credit/credit-auto/">J&#8217;achète une voiture</a></li>
+<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="https://www.multicredit.ch/fr/credit/credit-habitation/">Je fais des travaux</a></li>
+<li id="menu-item-12043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12043"><a href="https://www.multicredit.ch/fr/credit/pret-medical/">Je prends soin de moi</a></li>
+<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="https://www.multicredit.ch/fr/credit/financement-d-etudes-et-de-formations/">Je fais une formation supérieure</a></li>
+</ul></div></aside>							</div>
+			<div class="col-lg-3 col-md-6 bloc-3">
+									<aside id="text-4" class="widget widget_text"><h4 class="widget-title">Contactez-nous</h4>			<div class="textwidget"><p>Cashflex MultiCredit Sàrl<br />
+Rue de la Banque 4<br />
+CP 77 &#8211; 1701 Fribourg</p>
+</div>
+		</aside>							</div>
+			<div class="col-lg-3 col-md-6 bloc-4">
+									<aside id="text-5" class="widget widget_text"><h4 class="widget-title">Inscrivez-vous à notre newsletter</h4>			<div class="textwidget"><form class="inf-form" action="https://newsletter.infomaniak.com/external/submit" method="post" target="_blank"><input style="display: none;" name="email" type="email" /><input name="key" type="hidden" value="eyJpdiI6IlAxNHJCVzY2ejQ3NmpvdHhXQnh2UCtVM1AzbE1yQ3VhSW92elcrTTlkNVU9IiwidmFsdWUiOiJEaU94ZmxLUVR3aG1aeXJ4RjVReHFmRFFQanVcL2FCb2w4c01BeElLNTlQUT0iLCJtYWMiOiJiNTZjOGE3MWEzYzQ3ZjNkYzYyZTg3NTZlOWIzN2QwZWQ0YmM5ZmFhM2ZlYWUwZjgxYWRhNzQ5ODdkMjA2NmI3In0=" /><input name="webform_id" type="hidden" value="7315" /></p>
+<div class="inf-main">
+<div class="inf-success" style="display: none;">
+<h4>Votre inscription a été enregistrée avec succès !</h4>
+<p><a class="inf-btn" href="#">«</a></p>
+</div>
+<div class="inf-content">
+<div class="inf-input inf-input-text"><input name="inf[1]" required="required" type="text" placeholder="Email" data-inf-meta="1" data-inf-error="Merci de renseigner une adresse email" /></div>
+<div class="inf-submit"><input name="" type="submit" value="Inscription" /></div>
+<div class="inf-rgpd" style="font-size: 0.7em;">Votre adresse de messagerie est uniquement utilisée pour vous envoyer notre lettre d&#8217;information ainsi que des informations concernant nos activités. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans chacun de nos mails.</div>
+</div>
+</div>
+</form>
+</div>
+		</aside>							</div>
+		</div>
+	</div>
+</section>
+
+<footer>
+    <div class="container">
+
+	<div class="row">
+
+			<div class="col-lg-12">
+<!-- 									<aside id="text-6" class="widget widget_text">			<div class="textwidget"><p>Au sens de la loi, l&#8217;octroi d&#8217;un crédit à la consommation est interdit s&#8217;il occasionne un surendettement (art. 3 LCD). Exemple de calcul: Financement CHF 10&#8217;000. Un taux d&#8217;intérêt annuel effectif de 4.9% à 9.9% donne des coûts totaux pour 12 mois de CHF 262.- à CHF 520.- . Le taux d&#8217;intérêt final varie en fonction de la situation de chaque client, de 4.9% à 9.9%. Aucun frais de dossier ni frais complémentaire: vous ne payez que l&#8217;intérêt du crédit.</p>
+<p><strong>Cashflex MultiCredit Sàrl est inscrit service de commerce du canton de Fribourg depuis avril 2007. <em>IDE: CHE-113.592.711</em></strong></p>
+</div>
+		</aside>								petit test -->
+				<p>	
+					Au sens de la loi, l’octroi d’un crédit à la consommation est interdit s’il occasionne un surendettement (art. 3 LCD). Exemple de calcul: Financement CHF 10’000. Un taux d’intérêt annuel effectif de 4.5% à 9.9% donne des coûts totaux pour 12 mois de CHF 240.- à CHF 520.- . Le taux d’intérêt final varie en fonction de la situation de chaque client, de 4.5% à 9.9%. Aucun frais de dossier ni frais complémentaire: vous ne payez que l’intérêt du crédit.
+
+<strong>Cashflex MultiCredit Sàrl est inscrit service de commerce du canton de Fribourg depuis avril 2007. <em>IDE: CHE-113.592.711</em></strong>				</p>	
+			</div>
+
+		</div>
+
+      <div class="row">
+        <div class="col-lg-6">
+          <p> &copy; 2021 | Cashflex MultiCredit Sàrl</p>
+        </div>
+        <div class="col-lg-6 text-right">
+          <p></span><a href="https://diabolo.com" class="lightgrey" target="_blank">Création de site web <img src="https://www.multicredit.ch/wp/wp-content/themes/multicredit/images/diabolo_logo_symbol.svg" class="footericon" alt="">Diabolo.com</a></p>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+
+
+	<div id="sticky-footer" class="hide-on-desktop">
+		<div class="row">
+			<div class="col-sm-3 footer-tel"><a href="tel:+41263222310"><img src="https://multicredit.ch/wp/wp-content/uploads/icons-tel.svg" alt="tel" width="50px" height="50px"></a></div>
+			<div class="col-sm-3 footer-whatsapp"><a href="https://api.whatsapp.com/send?phone=41799363175" target="new" rel="nofollow"><img src="https://multicredit.ch/wp/wp-content/uploads/icons-whatsapp.svg" alt="whatsapp" width="50px" height="50px"></a></div>
+			<div class="col-sm-3 "><a href="https://threema.id/R4BCBBPZ" target="new" rel="nofollow" ><img src="https://multicredit.ch/wp/wp-content/uploads/icons-threema.png" alt="threema" width="45px" height="50px"></a></div>
+			<div class="col-sm-3 footer-mail"><a href="mailto:info@multicredit.ch"><img src="https://multicredit.ch/wp/wp-content/uploads/icons-mail.svg" alt="mail" width="50px" height="50px"></a></div>
+		</div>
+	</div>
+
+  <button id="scrollTopBtn" title="Go to top">&uarr;</button>
+
+  </div> <!-- End #GeneralWrapper -->
+
+
+
+  <script type="text/html" id="wpb-modifications"></script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.multicredit.ch\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.multicredit.ch\/wp\/wp-admin\/admin-ajax.php","nonce":"5686f185dd","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"604800","cookieTimeRejected":"604800","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/bootstrap.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/gsap.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/slick.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/ResizeSensor.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/theia-sticky-sidebar.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/aos.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/jBox.all.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/themes/multicredit/app/js/scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.3'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.1'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/js_composer/assets/lib/bower/progress-circle/ProgressCircle.min.js?ver=6.1'></script>
+<script type='text/javascript' src='https://www.multicredit.ch/wp/wp-content/plugins/js_composer/assets/lib/vc_chart/jquery.vc_chart.min.js?ver=6.1'></script>
+
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,51,160,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">Ce site web utilise des cookies afin d'assurer la meilleure expérience possible sur notre site internet. Si vous continuez à utiliser ce site Web, nous supposerons que vous en êtes satisfait.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap cookie-btn" aria-label="J'accepte">J'accepte</a><a href="https://www.multicredit.ch/fr/pc/" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap cookie-btn" aria-label="Protection des données">Protection des données</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="J'accepte"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.658 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2021-04-12 22:53:17 -->
